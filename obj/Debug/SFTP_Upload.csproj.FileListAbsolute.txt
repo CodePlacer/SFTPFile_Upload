@@ -1,0 +1,8 @@
+c:\users\vyshag.v\documents\visual studio 2015\Projects\SFTP_Upload\bin\Debug\SFTP_Upload.exe.config
+c:\users\vyshag.v\documents\visual studio 2015\Projects\SFTP_Upload\bin\Debug\SFTP_Upload.exe
+c:\users\vyshag.v\documents\visual studio 2015\Projects\SFTP_Upload\bin\Debug\SFTP_Upload.pdb
+c:\users\vyshag.v\documents\visual studio 2015\Projects\SFTP_Upload\bin\Debug\Renci.SshNet.dll
+c:\users\vyshag.v\documents\visual studio 2015\Projects\SFTP_Upload\bin\Debug\Renci.SshNet.xml
+c:\users\vyshag.v\documents\visual studio 2015\Projects\SFTP_Upload\obj\Debug\SFTP_Upload.csprojResolveAssemblyReference.cache
+c:\users\vyshag.v\documents\visual studio 2015\Projects\SFTP_Upload\obj\Debug\SFTP_Upload.exe
+c:\users\vyshag.v\documents\visual studio 2015\Projects\SFTP_Upload\obj\Debug\SFTP_Upload.pdb
